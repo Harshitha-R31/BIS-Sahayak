@@ -1,0 +1,136 @@
+[
+  {
+    "title": "BIS Know Your Standard",
+    "category": "standards",
+    "url": "https://www.bis.gov.in/know-your-standard/?lang=en",
+    "keywords": [
+      "standard",
+      "indian standard",
+      "IS number",
+      "product",
+      "keyword",
+      "amendment",
+      "gazette",
+      "scheme of testing",
+      "license",
+      "licence",
+      "laboratory",
+      "committee"
+    ],
+    "content": "BIS Know Your Standard provides one-stop access to documents and data related to a selected Indian Standard. A standard can be searched using an IS number or a keyword such as a product name. Information can include the Indian Standard, amendments, gazette notifications, scheme of testing and inspection, licences, laboratories, classification and committee details."
+  },
+  {
+    "title": "BIS Standards Portal",
+    "category": "standards",
+    "url": "https://standards.bis.gov.in/",
+    "keywords": [
+      "standards portal",
+      "indian standards",
+      "IS",
+      "search",
+      "draft",
+      "technical department",
+      "standard search"
+    ],
+    "content": "The BIS Standards Portal provides access to Indian Standards and standardization resources. Users can search Indian Standards by number or keywords and access published standards, drafts, technical departments and other standards-related information."
+  },
+  {
+    "title": "BIS Product Certification Process",
+    "category": "certification",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-process/?lang=en",
+    "keywords": [
+      "certification",
+      "product certification",
+      "conformity assessment",
+      "licence",
+      "license",
+      "product manual",
+      "testing",
+      "inspection",
+      "BIS mark"
+    ],
+    "content": "BIS product certification includes conformity assessment schemes and guidance for granting, renewing and operating licences. Product-specific information includes product manuals and schemes of inspection and testing."
+  },
+  {
+    "title": "BIS Apply for a Licence",
+    "category": "certification",
+    "url": "https://www.bis.gov.in/apply-for-a-license/?lang=en",
+    "keywords": [
+      "apply",
+      "licence",
+      "license",
+      "manufacturer",
+      "manufacturing",
+      "quality control",
+      "testing",
+      "conformity",
+      "application"
+    ],
+    "content": "The BIS licence application process starts with identifying the Indian Standard applicable to the product. Manufacturers then analyse manufacturing infrastructure, process controls, quality control and testing capabilities. BIS assesses these requirements and product conformity through applicable assessment and testing procedures. Applications are accepted online."
+  },
+  {
+    "title": "BIS Product Certification FAQ",
+    "category": "certification",
+    "url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+    "keywords": [
+      "certification FAQ",
+      "manufacturer",
+      "Indian Standard",
+      "quality",
+      "testing",
+      "conformity assessment",
+      "product certification"
+    ],
+    "content": "BIS explains that manufacturers need to identify the corresponding Indian Standard for their product. Depending on the product and applicable requirements, certification may involve manufacturing infrastructure, process controls, quality control, testing capabilities and conformity assessment."
+  },
+  {
+    "title": "BIS Hallmarking FAQ",
+    "category": "hallmarking",
+    "url": "https://www.bis.gov.in/hallmarking-overview/hallmarking-faqs/hallmarking-faq/?lang=en",
+    "keywords": [
+      "hallmark",
+      "hallmarking",
+      "HUID",
+      "gold",
+      "silver",
+      "jewellery",
+      "jewelry",
+      "verify",
+      "consumer",
+      "hallmarked article"
+    ],
+    "content": "BIS hallmarking resources provide information for consumers and industry about hallmarking and HUID verification. HUID is a unique alphanumeric identification associated with a hallmarked item and can be used for verification through BIS consumer services."
+  },
+  {
+    "title": "BIS Laboratory Services",
+    "category": "testing",
+    "url": "https://www.bis.gov.in/laboratorys/laboratory-services-overview/?lang=en",
+    "keywords": [
+      "laboratory",
+      "laboratories",
+      "labs",
+      "testing",
+      "test",
+      "sample",
+      "conformity assessment",
+      "BIS laboratory",
+      "testing services"
+    ],
+    "content": "BIS laboratory services support testing and conformity assessment activities. The official BIS laboratory services resource provides information about laboratory-related services and testing support available through BIS."
+  },
+  {
+    "title": "BIS Official Website",
+    "category": "about",
+    "url": "https://www.bis.gov.in/",
+    "keywords": [
+      "BIS",
+      "Bureau of Indian Standards",
+      "official website",
+      "standards body",
+      "India",
+      "national standards body",
+      "consumer services"
+    ],
+    "content": "The Bureau of Indian Standards (BIS) is India's national standards body. The official BIS website provides information about standards, product certification, hallmarking, laboratories, consumer services and other BIS activities."
+  }
+]
